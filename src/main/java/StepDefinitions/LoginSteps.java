@@ -17,6 +17,7 @@ import junit.framework.Assert;
 public class LoginSteps {
 	
 	public WebDriver driver;
+//1st step
 	
 @Given("^User has already opened the browser window$")
 public void user_has_already_opened_the_browser_window() {
